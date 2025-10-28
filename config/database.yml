@@ -1,0 +1,8 @@
+development:
+ adapter: postgresql
+ encoding: unicode
+ database: appointment
+ pool: 5
+ host: localhost
+ username: postgres
+ password: siddu123
